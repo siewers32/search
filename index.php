@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <style>
+        .jtest {
+            //
+        }
         .block, .criteria {
             display:inline-block;
             width:30px;
